@@ -1,0 +1,24 @@
+{ 
+"CD": [ 
+  {
+"Casa discografica": "Hole",
+"Artista": "The Wall",
+"Tracce": [
+{
+"numero":"1",
+"pezzo": "Lobster",
+"durata": "3.50"
+} ],
+"Anno": "1995",
+"Categoria": "pop-rock"
+},
+
+{
+"numero":"2",
+"pezzo": "RTY",
+"durata": "3.50"
+} ],
+"Anno": "1995",
+"Categoria": "pop-rock"
+} ]
+}

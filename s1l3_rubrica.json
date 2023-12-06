@@ -1,0 +1,64 @@
+{
+  "rubrica": [
+    {
+      "Title": "Sig.ra",
+      "First Name": "Pamela",
+      "Middle Name": "",
+      "Last Name": "Venuti",
+      "Mobile Phone": "+39 32456456",
+      "Email Address": "venuti_pamela@studenti.it",
+      "Città": "Casoria",
+      "Colore preferito": "blu",
+      "Numero preferito": "1",
+      "Segno zodiacale": "Toro"
+    },
+    {
+      "Title": "Sig.ra",
+      "First Name": "Megan Vanessa",
+      "Middle Name": "",
+      "Last Name": "Perseu",
+      "Mobile Phone": "+39 12342789",
+      "E-mail Address": "perseu_vmegan@studenti.it",
+      "Città": "Parigi",
+      "Colore preferito": "rosso",
+      "Numero preferito": "1",
+      "Segno zodiacale": "Toro"
+    },
+    {
+      "Title": "Sig.",
+      "First Name": "Marco",
+      "Middle Name": "",
+      "Last Name": "Tripodi",
+      "Mobile Phone": "+39 54829109",
+      "E-mail Address": "tripodi_marco@studenti.it",
+      "Città": "Mosca",
+      "Colore preferito": "verde",
+      "Numero preferito": "1",
+      "Segno zodiacale": "Toro"
+    },
+    {
+      "Title": "Sig.ra",
+      "First Name": "Deborah",
+      "Middle Name": "",
+      "Last Name": "Manis",
+      "Mobile Phone": "+39 786034",
+      "E-mail Address": "manis_deborah@studenti.it",
+      "Città": "Londra",
+      "Colore preferito": "azzurro",
+      "Numero preferito": "1",
+      "Segno zodiacale": "Toro"
+    },
+    {
+      "Title": "Sig.ra",
+      "First Name": "Miriam",
+      "Middle Name": "",
+      "Last Name": "Passaro",
+      "Mobile Phone": "+39 32940193",
+      "E-mail Address": "passaro_deborah@studenti.it",
+      "Città": "Londra",
+      "Colore preferito": "giallo",
+      "Numero preferito": "1",
+      "Segno zodiacale": "Toro"
+    }
+    ]
+}

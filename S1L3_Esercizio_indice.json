@@ -1,0 +1,20 @@
+{
+  "INDICE": [
+    {
+    "Titolo": "La danza di Natasha",
+    "Sottotitolo": "Storia della cultura russa",
+    "Capitoli": {
+      "I": "La Russia Europea",
+      "II": "I figli del 1812",
+      "III": "A Mosca! A Mosca!",
+      "IV": "Il matrimonio contadino",
+      "V": "Discendenti di Genghiz khan"
+    },
+    "Autore": {
+      "nome": "Orlando Figes",
+      "Indirizzo": "Corso Umberto (MI)"
+    },
+    "Casa Editrice": "Piccola Biblioteca Einaudi Storia"
+  }
+]
+}
