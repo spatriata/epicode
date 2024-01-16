@@ -1,0 +1,85 @@
+Algoritmo: Preparare il caffè
+Prendere la macchina del caffè
+aprirla
+Riempire il serbatoio d'acqua
+Aggiungere il filtro
+mettere la polvere di caffè e caricare la macchinetta
+accendere il fornello
+mettere la macchinetta sul fornello
+aspettare che che il caffè salga
+spegnere il fornello
+prendere una tazzina
+versare il caffè
+zuccherare
+
+Rifare il letto
+
+Raccogli lenzuola, coperte, cuscini e coperte aggiuntive.
+Rimuovi la biancheria usata dal letto.
+Agita il materasso per far circolare l'aria.
+Stendi il nuovo lenzuolo sul materasso, allineandolo correttamente.
+Inserisci federe e cuscini.
+Aggiungi eventuali coperte aggiuntive desiderate.
+Livella la superficie del letto e assicurati che tutto sia sistemato uniformemente.
+
+Mettere in moto la macchina
+
+Prendi le chiavi
+Sedersi al posto del conducente
+Inserisci la chiave nella serratura di accensione
+Ruota la chiave in senso orario
+Mantieni il piede sul freno.
+Una volta avviato il motore, rilascia il freno.
+Inserisci la marcia 
+Parti
+
+
+
+
+Esercizi su Python
+
+classe = 25
+nuovi_studenti = 3
+print(classe + nuovi_studenti)
+classe_totale = classe + nuovi_studenti
+print(classe_totale)
+
+nome_scuola = 'Epicode'
+lista1 = [1, 2, 3, 4, 5]
+print(lista1)
+
+# slicing
+print(nome_scuola [0:3])
+print(nome_scuola [4:7])
+print(nome_scuola [0])
+
+# esercizio operazioni
+x=10
+x2= x+2
+x3= x2*3
+print(x3)
+y= (10+2)*3
+print(y)
+
+#esercizio stringa
+esercizio = input("Inserisci una parola:")
+print(esercizio[:3] + "..." + esercizio[-3:])
+
+#verifica
+a = 'Windows'
+b = 'Excel'
+c = 'Powerpoint'
+d = 'Word'
+a_lunghezza = len(a)
+b_lunghezza = len(b)
+c_lunghezza = len(c)
+d_lunghezza = len(d) 
+print(a_lunghezza)
+print(b_lunghezza)
+print(c_lunghezza)
+print(d_lunghezza)
+
+#ultimo esercizio
+y = input("La tua età\n")
+x = input("l'età della persona a te più cara\n")
+print(int(x) * int(y))
